@@ -1,0 +1,49 @@
+﻿<Window x:Class="GlobusTourAgency.BookingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Бронирование тура" 
+        Height="400" Width="400"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" 
+                   Text="Бронирование тура"
+                   FontSize="16" 
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1">
+            <Label Content="ФИО клиента:" FontWeight="Bold"/>
+            <TextBox x:Name="ClientNameTextBox" 
+                     Height="25" 
+                     Margin="0,0,0,20"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="BookButton" 
+                    Content="Забронировать" 
+                    Click="BookButton_Click"
+                    Width="120" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#4CAF50" 
+                    Foreground="White"/>
+
+            <Button x:Name="CancelButton" 
+                    Content="Отмена" 
+                    Click="CancelButton_Click"
+                    Width="100" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#F44336" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

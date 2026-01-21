@@ -1,0 +1,77 @@
+﻿<Window x:Class="GlobusTourAgency.BusManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление автобусами" 
+        Height="500" Width="800"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Background="#1976D2" Padding="10">
+            <TextBlock Text="Управление автобусами" 
+                       Foreground="White" 
+                       FontSize="16" 
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"/>
+        </Border>
+
+        <DataGrid x:Name="BusesDataGrid"
+                  Grid.Row="1"
+                  Margin="10"
+                  AutoGenerateColumns="False"
+                  SelectionMode="Single"
+                  CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding BusTypeID}" Width="50"/>
+                <DataGridTextColumn Header="Тип автобуса" Binding="{Binding TypeName}" Width="200"/>
+                <DataGridTextColumn Header="Вместимость" Binding="{Binding Capacity}" Width="100"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Border Grid.Row="2" Background="#F5F5F5" Padding="10">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button x:Name="AddBusButton" 
+                        Content="Добавить" 
+                        Click="AddBusButton_Click"
+                        Width="100" 
+                        Height="30" 
+                        Margin="5"
+                        Background="#4CAF50" 
+                        Foreground="White"/>
+
+                <Button x:Name="EditBusButton" 
+                        Content="Изменить" 
+                        Click="EditBusButton_Click"
+                        Width="100" 
+                        Height="30" 
+                        Margin="5"
+                        Background="#2196F3" 
+                        Foreground="White"/>
+
+                <Button x:Name="DeleteBusButton" 
+                        Content="Удалить" 
+                        Click="DeleteBusButton_Click"
+                        Width="100" 
+                        Height="30" 
+                        Margin="5"
+                        Background="#F44336" 
+                        Foreground="White"/>
+
+                <Button x:Name="BackButton" 
+                        Content="Назад" 
+                        Click="BackButton_Click"
+                        Width="80" 
+                        Height="30" 
+                        Margin="5"
+                        Background="#757575" 
+                        Foreground="White"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

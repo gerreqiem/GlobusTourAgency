@@ -1,0 +1,95 @@
+﻿<Window x:Class="GlobusTourAgency.EditTourWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование тура" 
+        Height="550" Width="500"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" 
+                   Text="Редактирование тура" 
+                   FontSize="16" 
+                   FontWeight="Bold"
+                   Margin="0,0,0,10"/>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Код тура:" Margin="0,5"/>
+                <TextBox x:Name="TourCodeTextBox" 
+                         IsEnabled="False"
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Название тура:" Margin="0,5"/>
+                <TextBox x:Name="TourNameTextBox" 
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Страна:" Margin="0,5"/>
+                <ComboBox x:Name="CountryComboBox"
+                          Margin="0,2,0,10"/>
+
+                <TextBlock Text="Длительность (дней):" Margin="0,5"/>
+                <TextBox x:Name="DurationTextBox" 
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Дата начала:" Margin="0,5"/>
+                <DatePicker x:Name="StartDatePicker" 
+                            Margin="0,2,0,10"/>
+
+                <TextBlock Text="Цена:" Margin="0,5"/>
+                <TextBox x:Name="PriceTextBox" 
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Скидка (%):" Margin="0,5"/>
+                <TextBox x:Name="DiscountTextBox" 
+                         Text="0"
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Тип автобуса:" Margin="0,5"/>
+                <ComboBox x:Name="BusTypeComboBox"
+                          Margin="0,2,0,10"/>
+
+                <TextBlock Text="Вместимость:" Margin="0,5"/>
+                <TextBox x:Name="CapacityTextBox" 
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Свободные места:" Margin="0,5"/>
+                <TextBox x:Name="FreeSeatsTextBox" 
+                         Margin="0,2,0,10"/>
+
+                <TextBlock Text="Файл фото:" Margin="0,5"/>
+                <TextBox x:Name="PhotoFileNameTextBox" 
+                         Margin="0,2,0,10"/>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right"
+                    Margin="0,10,0,0">
+            <Button x:Name="SaveButton" 
+                    Content="Сохранить" 
+                    Click="SaveButton_Click"
+                    Width="100" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#4CAF50" 
+                    Foreground="White"/>
+
+            <Button x:Name="CancelButton" 
+                    Content="Отмена" 
+                    Click="CancelButton_Click"
+                    Width="100" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#757575" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

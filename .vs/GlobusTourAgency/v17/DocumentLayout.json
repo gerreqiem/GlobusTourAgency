@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\requestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\requestswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\requestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\requestswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\edittourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\edittourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\edittourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\edittourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\createtourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\createtourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\createtourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\createtourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\busmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\busmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\busmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\busmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\bookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\addeditbuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\addeditbuswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\addeditbuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\addeditbuswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|c:\\users\\admin\\desktop\\globustouragency\\globustouragency\\database\\sqldatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8766CFB6-7D7B-4E5D-A838-7436A8CF71CC}|GlobusTourAgency\\GlobusTourAgency.csproj|solutionrelative:globustouragency\\database\\sqldatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\RequestsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\RequestsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\RequestsWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\RequestsWindow.xaml.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAQwDoBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:20:21.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\RequestsWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\RequestsWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\RequestsWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\RequestsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:20:17.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAQwCoCAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:20:13.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\MainWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:20:09.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:20:04.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\LoginWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:20:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTourWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\EditTourWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\EditTourWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\EditTourWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\EditTourWindow.xaml.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAPMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditTourWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\EditTourWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\EditTourWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\EditTourWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\EditTourWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTourWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateTourWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\CreateTourWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateTourWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\CreateTourWindow.xaml.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAPkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:45.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTourWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateTourWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\CreateTourWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateTourWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\CreateTourWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\CreateRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateRequestWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\CreateRequestWindow.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:36.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateRequestWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\CreateRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\CreateRequestWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\CreateRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:31.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BusManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\BusManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BusManagementWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\BusManagementWindow.xaml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwLYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BusManagementWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\BusManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BusManagementWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\BusManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:23.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\BookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BookingWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\BookingWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:18.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\BookingWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\BookingWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:13.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\App.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:19:08.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\App.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\App.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T10:19:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\User.cs",
+              "RelativeToolTip": "GlobusTourAgency\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:18:48.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\Tour.cs",
+              "RelativeToolTip": "GlobusTourAgency\\Models\\Tour.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:18:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Models\\Request.cs",
+              "RelativeToolTip": "GlobusTourAgency\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:18:39.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SqlDatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Database\\SqlDatabaseService.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\Database\\SqlDatabaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\Database\\SqlDatabaseService.cs",
+              "RelativeToolTip": "GlobusTourAgency\\Database\\SqlDatabaseService.cs",
+              "ViewState": "AgIAAG8DAAAAAAAAAAAgwIIDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:18:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddEditBusWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\AddEditBusWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\AddEditBusWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\AddEditBusWindow.xaml.cs",
+              "RelativeToolTip": "GlobusTourAgency\\AddEditBusWindow.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwIMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:49:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEditBusWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\AddEditBusWindow.xaml",
+              "RelativeDocumentMoniker": "GlobusTourAgency\\AddEditBusWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GlobusTourAgency\\GlobusTourAgency\\AddEditBusWindow.xaml",
+              "RelativeToolTip": "GlobusTourAgency\\AddEditBusWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T08:48:34.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

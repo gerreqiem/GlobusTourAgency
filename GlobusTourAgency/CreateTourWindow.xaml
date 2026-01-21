@@ -1,0 +1,98 @@
+﻿<Window x:Class="GlobusTourAgency.CreateTourWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Создание нового тура" 
+        Height="600" Width="500"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок -->
+        <TextBlock Grid.Row="0" 
+                   Text="Создание нового тура"
+                   FontSize="16" 
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <GroupBox Header="Основная информация" Margin="0,0,0,10">
+                    <StackPanel>
+                        <Label Content="Название тура:" FontWeight="Bold"/>
+                        <TextBox x:Name="TourNameTextBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Код тура:" FontWeight="Bold"/>
+                        <TextBox x:Name="TourCodeTextBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Страна:" FontWeight="Bold"/>
+                        <ComboBox x:Name="CountryComboBox" Height="25" Margin="0,0,0,10"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <GroupBox Header="Даты и длительность" Margin="0,0,0,10">
+                    <StackPanel>
+                        <Label Content="Дата начала:" FontWeight="Bold"/>
+                        <DatePicker x:Name="StartDatePicker" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Длительность (дней):" FontWeight="Bold"/>
+                        <TextBox x:Name="DurationTextBox" Height="25" Margin="0,0,0,10"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <GroupBox Header="Цена и скидка" Margin="0,0,0,10">
+                    <StackPanel>
+                        <Label Content="Цена (руб.):" FontWeight="Bold"/>
+                        <TextBox x:Name="PriceTextBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Скидка (%):" FontWeight="Bold"/>
+                        <TextBox x:Name="DiscountTextBox" Height="25" Margin="0,0,0,10" Text="0"/>
+                    </StackPanel>
+                </GroupBox>
+
+                <GroupBox Header="Вместимость и транспорт" Margin="0,0,0,10">
+                    <StackPanel>
+                        <Label Content="Общая вместимость:" FontWeight="Bold"/>
+                        <TextBox x:Name="CapacityTextBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Свободных мест:" FontWeight="Bold"/>
+                        <TextBox x:Name="FreeSeatsTextBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Тип автобуса:" FontWeight="Bold"/>
+                        <ComboBox x:Name="BusTypeComboBox" Height="25" Margin="0,0,0,10"/>
+
+                        <Label Content="Имя файла фото:" FontWeight="Bold"/>
+                        <TextBox x:Name="PhotoFileNameTextBox" Height="25" Margin="0,0,0,10" 
+                                 ToolTip="Имя файла без расширения (например: Italy_tour)"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="CreateButton" 
+                    Content="Создать" 
+                    Click="CreateButton_Click"
+                    Width="100" 
+                    Height="35" 
+                    Margin="5"
+                    Background="#4CAF50" 
+                    Foreground="White"
+                    FontWeight="Bold"/>
+
+            <Button x:Name="CancelButton" 
+                    Content="Отмена" 
+                    Click="CancelButton_Click"
+                    Width="100" 
+                    Height="35" 
+                    Margin="5"
+                    Background="#F44336" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

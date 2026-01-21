@@ -1,0 +1,51 @@
+﻿<Window x:Class="GlobusTourAgency.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вход в систему" 
+        WindowStartupLocation="CenterScreen"
+        Height="450" Width="350">
+
+    <Grid Background="#FFF5F5F5" Margin="0,0,0,-56">
+        <StackPanel VerticalAlignment="Center" Margin="20">
+
+            <TextBlock Text="Турагентство ГЛОБУС" 
+                       FontSize="18" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"/>
+
+            <Label Content="Логин:" FontWeight="Bold"/>
+            <TextBox x:Name="LoginTextBox" 
+                     Text="manager@globus.ru"
+                     Height="25" 
+                     Margin="0,0,0,10"/>
+
+            <Label Content="Пароль:" FontWeight="Bold"/>
+            <PasswordBox x:Name="PasswordBox" 
+                         Height="25" 
+                         Margin="0,0,0,20"/>
+
+            <Button x:Name="GuestLoginButton" 
+                    Content="Войти как гость" 
+                    Click="GuestLoginButton_Click"
+                    Height="30" 
+                    Background="#4CAF50" 
+                    Foreground="White" 
+                    Margin="0,0,0,5"/>
+
+            <Button x:Name="ManagerLoginButton" 
+                    Content="Войти как менеджер" 
+                    Click="ManagerLoginButton_Click"
+                    Height="30" 
+                    Background="#1976D2" 
+                    Foreground="White" 
+                    Margin="0,0,0,10"/>
+
+            <Button Content="Выход" 
+                    Click="CancelButton_Click"
+                    Height="25" 
+                    Background="#F44336" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>

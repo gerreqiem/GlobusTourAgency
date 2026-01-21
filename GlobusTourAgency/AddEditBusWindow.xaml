@@ -1,0 +1,62 @@
+﻿<Window x:Class="GlobusTourAgency.AddEditBusWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавление/редактирование автобуса" 
+        Height="450" Width="400"
+        WindowStartupLocation="CenterOwner">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="TitleText" 
+                   Grid.Row="0" 
+                   Text="Добавление автобуса"
+                   FontSize="16" 
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1">
+            <Label Content="Тип автобуса:" FontWeight="Bold"/>
+            <TextBox x:Name="TypeNameTextBox" 
+                     Height="25" 
+                     Margin="0,0,0,10"/>
+
+            <Label Content="Вместимость:" FontWeight="Bold"/>
+            <TextBox x:Name="CapacityTextBox" 
+                     Height="25" 
+                     Margin="0,0,0,10"/>
+
+            <Label Content="Описание:" FontWeight="Bold"/>
+            <TextBox x:Name="DescriptionTextBox" 
+                     Height="60" 
+                     Margin="0,0,0,10"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="SaveButton" 
+                    Content="Сохранить" 
+                    Click="SaveButton_Click"
+                    Width="100" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#4CAF50" 
+                    Foreground="White"/>
+
+            <Button x:Name="CancelButton" 
+                    Content="Отмена" 
+                    Click="CancelButton_Click"
+                    Width="100" 
+                    Height="30" 
+                    Margin="5"
+                    Background="#F44336" 
+                    Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>
