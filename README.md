@@ -34,6 +34,7 @@
 Полное управление системой
 
 Особенности интерфейса
+
 Подсветка туров:
 
 Скидка >15% → золотой фон (#FFD700)
@@ -47,7 +48,9 @@
 Цветовая индикация статусов заявок
 
 Структура базы данных
+
 Основные таблицы:
+
 Users - пользователи системы
 
 Countries - справочник стран
@@ -59,6 +62,7 @@ Tours - информация о турах
 Requests - заявки на бронирование
 
 Связи:
+
 One-to-Many: Country → Tours
 
 One-to-Many: BusType → Tours
@@ -68,7 +72,9 @@ One-to-Many: User → Requests
 One-to-Many: Tour → Requests
 
 Технологический стек
+
 Backend:
+
 Язык: C#
 
 Платформа: .NET Framework
@@ -78,11 +84,13 @@ Backend:
 ORM: ADO.NET 
 
 Frontend:
-Технология: WPF (Windows Presentation Foundation)
+
+Технология: WPF
 
 Язык разметки: XAML
 
 Инструменты:
+
 IDE: Visual Studio
 
 СУБД: SQL Server Management Studio
@@ -91,7 +99,9 @@ IDE: Visual Studio
 
 
 Установка и запуск
+
 Предварительные требования:
+
 Windows 10/11
 
 .NET Framework 4.7.2 или выше
@@ -105,6 +115,7 @@ Visual Studio 2019 или выше
 Клонировать репозиторий:
 
 git clone https://github.com/yourusername/touragency.git
+
 Настроить базу данных:
 
 Открыть SQL Server Management Studio
@@ -130,8 +141,11 @@ git clone https://github.com/yourusername/touragency.git
 Настройка подключения к БД:
 
 private string connectionString = @"Server=ВАШ_СЕРВЕР;Database=TourAgency;Integrated Security=True;";
+
 Функционал по модулям
+
 Модуль 1: Авторизация и роли
+
 Вход по логину/паролю
 
 Гостевой доступ
@@ -139,6 +153,7 @@ private string connectionString = @"Server=ВАШ_СЕРВЕР;Database=TourAgen
 Ролевая модель (Гость, Клиент, Менеджер, Админ)
 
 Модуль 2: Управление турами
+
 Просмотр каталога туров
 
 Фильтрация по стране
@@ -148,6 +163,7 @@ private string connectionString = @"Server=ВАШ_СЕРВЕР;Database=TourAgen
 Подсветка спецпредложений
 
 Модуль 3: Работа с заявками
+
 Создание заявок
 
 Просмотр списка заявок
@@ -159,6 +175,7 @@ private string connectionString = @"Server=ВАШ_СЕРВЕР;Database=TourAgen
 Поиск по клиентам
 
 Модуль 4: Администрирование
+
 CRUD операции для туров
 
 Управление типами автобусов
