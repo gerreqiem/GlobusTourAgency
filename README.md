@@ -118,7 +118,7 @@ Frontend:
 Шаги установки:
 
 Клонировать репозиторий:
- git clone https://github.com/yourusername/touragency.git
+ git clone https://github.com/gerreqiem/GlobusTourAgency.git
 
 Настроить базу данных:
 
